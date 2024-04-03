@@ -1,0 +1,12 @@
+.container{
+  
+  max-width: 500px;
+  margin: 5px auto;
+  padding: 30px;
+ 
+ 
+}
+h1{
+  color: white;
+  text-align: center;
+}
